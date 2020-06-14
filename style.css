@@ -253,7 +253,7 @@ ul {
 /* Media Quries*/
 
 
-@media(max-width: 700px) { /* Screens 700 and below ... and 700 is tablet view */
+@media(max-width: 700px) { /* Screens 700 and below ... and 700 is tablet view  */
   .menu-btn {
     display: block;
   }
