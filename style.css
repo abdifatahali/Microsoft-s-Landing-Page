@@ -316,7 +316,7 @@ ul {
   }
 }
 
-@media(max-width: 500px) { /* Screens 500 and below ... and 500 is mobile view   */
+@media(max-width: 500px) { /* Screens 500 and below ... and 500 is mobile view  */
   .home-cards {
     grid-template-columns: 1fr;
   }
